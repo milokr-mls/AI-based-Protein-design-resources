@@ -6,7 +6,9 @@
 > iGEM [Website](https://igem.org/)
 
 ---
-![Design example](design#25.png)
+<p align="center">
+  <img src="./design#25.png" alt="alt text" width="600px"/>
+</p>
 
 ##  This includes  
 - Articles
