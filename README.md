@@ -6,6 +6,7 @@
 > iGEM [Website](https://igem.org/)
 
 ---
+![Design example](design#25.png)
 
 ##  This includes  
 - Articles
